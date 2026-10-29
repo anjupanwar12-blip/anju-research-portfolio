@@ -66,5 +66,5 @@ Replace `YOUR-USERNAME` with your GitHub username after publishing.
 
 ## Contact
 
-- **Email:** anju.panwarl2@gmail.com
+- **Email:** anju.panwar12@gmail.com
 - **Location:** Jhajjar, Haryana, India
